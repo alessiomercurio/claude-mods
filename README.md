@@ -1,5 +1,7 @@
 # claude-mods
 
+![workflow-radar and token-weather-v2 running above the Claude Code prompt](docs/demo.gif)
+
 Claude Code mods by Alessio Mercurio.
 
 | Plugin | What it does |
