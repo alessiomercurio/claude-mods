@@ -1,6 +1,6 @@
 # claude-mods
 
-![workflow-radar and token-weather-v2 running above the Claude Code prompt](docs/demo.webp)
+![workflow-radar showing a live plan and progress above the Claude Code prompt](docs/demo.webp)
 
 Claude Code mods by Alessio Mercurio.
 
