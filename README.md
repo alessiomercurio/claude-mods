@@ -19,13 +19,4 @@ In Claude Code:
 /plugin install token-weather-v2@alessio-mods
 ```
 
-## Develop
 
-Each plugin lives in `plugins/<name>/`. Check and test one with:
-
-```bash
-claude plugin validate plugins/<name>
-claude plugin test plugins/<name>
-```
-
-Bump `version` in the plugin's `.claude-plugin/plugin.json` (and in `.claude-plugin/marketplace.json`) when releasing an update.
