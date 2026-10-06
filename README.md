@@ -1,6 +1,6 @@
 # claude-mods
 
-![workflow-radar showing a live plan and progress above the Claude Code prompt](docs/demo.webp)
+![Demo: the mods running live above the Claude Code prompt](docs/demo.gif)
 
 Claude Code mods by Alessio Mercurio.
 
