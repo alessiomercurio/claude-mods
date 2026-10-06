@@ -12,7 +12,7 @@ Claude Code mods by Alessio Mercurio.
 In Claude Code:
 
 ```
-/plugin marketplace add <github-username>/claude-mods
+/plugin marketplace add alessiomercurio/claude-mods
 /plugin install workflow-radar@alessio-mods
 /plugin install token-weather-v2@alessio-mods
 ```
