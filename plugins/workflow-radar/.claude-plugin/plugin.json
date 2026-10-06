@@ -1,0 +1,9 @@
+{
+  "name": "workflow-radar",
+  "version": "0.1.0",
+  "description": "Live view of what the model is doing: thinking, writing, tool calls and subagents",
+  "author": {
+    "name": "Alessio Mercurio"
+  },
+  "types": "./types/index.d.ts"
+}

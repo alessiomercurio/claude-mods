@@ -1,0 +1,9 @@
+{
+  "name": "token-weather-v2",
+  "version": "0.1.0",
+  "description": "A live forecast of the context window in the band above the prompt",
+  "author": {
+    "name": "Alessio Mercurio"
+  },
+  "types": "./types/index.d.ts"
+}

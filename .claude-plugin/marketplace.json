@@ -1,0 +1,23 @@
+{
+  "name": "alessio-mods",
+  "owner": {
+    "name": "Alessio Mercurio"
+  },
+  "metadata": {
+    "description": "Claude Code mods: workflow-radar and token-weather-v2"
+  },
+  "plugins": [
+    {
+      "name": "workflow-radar",
+      "source": "./plugins/workflow-radar",
+      "description": "Live view of what the model is doing: thinking, writing, tool calls and subagents",
+      "version": "0.1.0"
+    },
+    {
+      "name": "token-weather-v2",
+      "source": "./plugins/token-weather-v2",
+      "description": "A live forecast of the context window in the band above the prompt",
+      "version": "0.1.0"
+    }
+  ]
+}
